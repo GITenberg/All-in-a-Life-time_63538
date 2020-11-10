@@ -1,0 +1,33 @@
+_repo: All-in-a-Life-time_63538
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Morgenthau, Henry
+    birthdate: 1856
+    deathdate: 1946
+    gutenberg_agent_id: '48290'
+    url: http://www.gutenberg.org/2009/agents/48290
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Morgenthau_Sr.
+  - agent_name: Strother, French
+    birthdate: 1883
+    deathdate: 1933
+    gutenberg_agent_id: '49307'
+    url: http://www.gutenberg.org/2009/agents/49307
+description: ''
+gutenberg_issued: '2020-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63538'
+  lccn: '22021188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E660'
+- !lcsh 'United States -- Foreign relations -- 20th century'
+- !lcsh 'Diplomats -- United States -- Biography'
+- !lcsh 'Morgenthau, Henry, 1856-1946'
+- GITenberg
+title: All in a Life-time
+url: http://www.gutenberg.org/ebooks/63538
